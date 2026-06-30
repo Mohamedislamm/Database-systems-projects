@@ -1,0 +1,3 @@
+﻿  ConsoleApplication28.cpp
+C:\Users\David Samuel\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(6,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ConsoleApplication28.vcxproj -> C:\Users\David Samuel\source\repos\ConsoleApplication28\x64\Debug\ConsoleApplication28.exe
